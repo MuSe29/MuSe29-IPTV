@@ -1,0 +1,131 @@
+﻿#EXTM3U url-tvg=""
+#EXTINF:-1 group-title="Ulusal" tvg-id="(no tvg-id)" tvg-name="MuSe29-TV" tvg-logo="https://cdn-dgicn.nitrocdn.com/opATekxXVziNSvtNKDLmpilIeLkNWSHi/assets/static/optimized/rev-c4e463e/-n0ILiDxIyDE/VxSKVkFuG7I/AAAAAAAAk08/hkl3KsQXkcoCa9SNyLFG8oKml6d04P3HQCLcB/s1600/hd-turk-bayragi-png-12.png" ,MuSe29-TV
+https://t1p.de/4kszr
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" ,TRT 1
+https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg" ,TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="atv (TR)" tvg-name="Atv (TR)" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" ,Atv (TR)
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Show TV" tvg-name="Show TV" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" ,Show TV
+http://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Show Türk" tvg-name="Show Türk" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png" ,Show Türk
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" ,Star TV (TR)
+https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="EuroStar" tvg-name="EuroStar" tvg-logo="https://i.ibb.co/r4SLvnN/eurostar.png" ,EuroStar
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png" ,Kanal D
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Euro D" tvg-name="Euro D" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png" ,Euro D
+https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Fox TR" tvg-name="Fox TR" tvg-logo="https://i.ibb.co/pxHprXH/fox.png" ,Fox TR
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1639285032&st=7KwOQ7Q2OIikHbW9LbSYdA
+#EXTINF:-1 group-title="Ulusal" tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png" ,Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png" ,Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png" ,TV8
+https://www.ozbeceriksizler.co/tv/index.php?ch=tv8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png" ,TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TV8.5" tvg-name="TV8.5" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" ,TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Teve2" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" ,Teve2
+https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" ,360 TV (TR)
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" ,Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" ,A2 (TR)
+http://antalya.tvizlehd.com/live/a2tv.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Show Max" tvg-name="Show Max" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png" ,Show Max
+https://aeonian-wage.000webhostapp.com/kanal/showmax.php
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Yeşilçam Komedi" tvg-name="Vizyon Yeşilçam Komedi" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png" ,Vizyon Yeşilçam Komedi
+https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Yeşilçam Nostalji" tvg-name="Vizyon Yeşilçam Nostalji" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png" ,Vizyon Yeşilçam Nostalji
+https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Türk Sinema" tvg-name="Vizyon Türk Sinema" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-TURK.png" ,Vizyon Türk Sinema
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Recep Ivedik TV" tvg-name="Vizyon Recep Ivedik TV" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" ,Vizyon Recep Ivedik TV
+https://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Kemal Sunal TV" tvg-name="Vizyon Kemal Sunal TV" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" ,Vizyon Kemal Sunal TV
+https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Sener Sen TV" tvg-name="Vizyon Sener Sen TV" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" ,Vizyon Sener Sen TV
+https://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Bizimkiler TV" tvg-name="Vizyon Bizimkiler TV" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" ,Vizyon Bizimkiler TV
+https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Vizyon Avrupa Yakasi TV" tvg-name="Vizyon Avrupa Yakasi TV" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" ,Vizyon Avrupa Yakasi TV
+https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Afyon Türk TV" tvg-name="Afyon Türk TV" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png" ,Afyon Türk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://www.ozbeceriksizler.co/tv/logo/natgeohd.png" ,National Geographic
+https://www.ozbeceriksizler.co/tv/index.php?ch=natgeohd
+#EXTINF:-1 group-title="Ulusal" tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/RznYK89/cn.png" ,Cartoon Network
+http://185.129.1.242:80/cartoonnetworkturk/mpegts
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png" ,TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png" ,Minika Çocuk
+https://antalya.tvizlehd.com/live/minikacocuk.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="A Haber" tvg-name="A Haber" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png" ,A Haber
+http://antalya.tvizlehd.com/live/ahaber.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TVNET" tvg-name="TVNET" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" ,TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png" ,NTV
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png" ,TGRT Haber
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="HABERGLOBAL" tvg-name="HABERGLOBAL" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png" ,HABERGLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png" ,HABERTURK
+https://www.ozbeceriksizler.co/tv/index.php?ch=haberturk
+#EXTINF:-1 group-title="Ulusal" tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg" ,Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="24 TV" tvg-name="24 TV" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" ,24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png" ,CNN TÜRK
+https://www.ozbeceriksizler.co/tv/index.php?ch=cnnturk
+#EXTINF:-1 group-title="Ulusal" tvg-id="(no tvg-id)" tvg-name="CNN Türk yedek" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png" ,CNN Türk yedek
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Halk TV" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/ZSBB9GG/halktv.png" ,Halk TV
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Akit TV" tvg-name="Akit TV" tvg-logo="https://i.ibb.co/kxRndv8/logo.png" ,Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Tele 1" tvg-name="Tele 1" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png" ,Tele 1
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-logo="https://i.ibb.co/4VCTd55/logo.png" ,Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Lalegül TV" tvg-name="Lalegül TV" tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg" ,Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Semerkand TV" tvg-name="Semerkand TV" tvg-logo="https://i.ibb.co/QHq642F/logo.png" ,Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="DOST TV" tvg-name="DOST TV" tvg-logo="https://i.ibb.co/LrDzHxW/dost.png" ,DOST TV
+http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-logo="https://i.ibb.co/r7C1DMG/tivibuspor.png" ,Tivibu Spor
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="a Spor" tvg-name="a Spor" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" ,a Spor
+http://antalya.tvizlehd.com/live/aspor.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" ,TRT Spor
+https://mn-nl.mncdn.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png" ,TRT Spor 2
+https://mn-nl.mncdn.com/blutv_trtspor2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Spor Yildiz" tvg-name="TRT Spor Yildiz" tvg-logo="https://i.ibb.co/FBzsCSY/trtsporyildiz.jpg" ,TRT Spor Yildiz
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Sports TV" tvg-name="Sports TV" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png" ,Sports TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" ,TLC
+https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png" ,DMAX
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60995084866ac3099473a292.png" ,INVESTIGATION DISCOVERY
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TGRT Belgesel" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" ,TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png" ,TRT Belgesel
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="(no tvg-id)" tvg-name="BLUTV BELGESEL" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/6111016b866ac30acc27b1ff.png" ,BLUTV BELGESEL
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png" ,YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="SSport" tvg-name="SSport" tvg-logo="https://www.ozbeceriksizler.co/tv/logo/ssport1.png" ,SSport
+https://www.ozbeceriksizler.co/tv/index.php?ch=ssport1
