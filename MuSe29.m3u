@@ -1,6 +1,6 @@
 ﻿#EXTM3U url-tvg=""
-#EXTINF:-1 group-title="Ulusal" tvg-id="(no tvg-id)" tvg-name="MuSe29-TV" tvg-logo="https://cdn-dgicn.nitrocdn.com/opATekxXVziNSvtNKDLmpilIeLkNWSHi/assets/static/optimized/rev-c4e463e/-n0ILiDxIyDE/VxSKVkFuG7I/AAAAAAAAk08/hkl3KsQXkcoCa9SNyLFG8oKml6d04P3HQCLcB/s1600/hd-turk-bayragi-png-12.png" ,MuSe29-TV
-https://t1p.de/4kszr
+#EXTINF:-1 group-title="Ulusal" tvg-id="(no tvg-id)" tvg-name="MuSe29-TV" tvg-logo="https://image.similarpng.com/thumbnail/2020/07/Turkey-flag-vintage-waving-on-transparent-background-PNG.png" ,MuSe29-TV
+http://media.developer.dolby.com/DolbyVision_Atmos/mp4/P81_GlassBlowing2_1920x1080%4059.94fps_15200kbps_fmp4.mp4
 #EXTINF:-1 group-title="Ulusal" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" ,TRT 1
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg" ,TRT Haber
