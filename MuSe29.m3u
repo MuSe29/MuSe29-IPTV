@@ -3,8 +3,6 @@
 http://media.developer.dolby.com/Atmos/MP4/shattered-3Mb.mp4
 #EXTINF:-1 group-title="Ulusal" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" ,TRT 1
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg" ,TRT Haber
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="atv (TR)" tvg-name="Atv (TR)" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" ,Atv (TR)
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="Show TV" tvg-name="Show TV" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" ,Show TV
@@ -71,6 +69,8 @@ https://antalya.tvizlehd.com/live/minikacocuk.m3u8
 http://antalya.tvizlehd.com/live/ahaber.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="TVNET" tvg-name="TVNET" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" ,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg" ,TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png" ,NTV
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live_720p2000000/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png" ,TGRT Haber
