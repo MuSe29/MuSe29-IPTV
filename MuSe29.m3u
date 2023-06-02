@@ -9,6 +9,8 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 http://149.62.183.207:4000/play/a03t/index.m3u8
 #EXTINF:1 tvg-id="ShowTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" group-title="Ulusal",Show Türk
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Ulusal",TV8
+http://149.62.183.207:4000/play/a03u/index.m3u8
 #EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Ulusal",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title="Ulusal",TRT Türk
@@ -53,8 +55,7 @@ https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Ulusal",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Ulusal",TV8
-http://mugla.tvizlehd.com/live/tv8.m3u8
+
 #EXTINF:1 tvg-id="360.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Ulusal",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
 #EXTINF:1 tvg-id="TRTAvaz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6663b40a-3ea0-426d-a901-7dd6d56c9e2c.png" group-title="Ulusal",TRT Avaz
