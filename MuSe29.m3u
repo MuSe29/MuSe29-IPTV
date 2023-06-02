@@ -40,6 +40,8 @@ https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:1 tvg-id="Diyanet TV HD" tvg-language="Turkish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Trtdiyanet.png" group-title="Dini",Diyanet TV
 http://149.62.183.207:4000/play/a03y/index.m3u8
+#EXTINF:1 tvg-id="Vav TV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d1/VAV_TV_logosu.png" group-title="Dini",Vav TV
+http://149.62.183.207:4000/play/a03y/index.m3u8
 
 #EXTINF:1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Ulusal",atv
 http://85.132.81.184:8080/atv/index.m3u8
