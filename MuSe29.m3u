@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:1 tvg-id="TRT1.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title="Ulusal",TRT 1 
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:1 tvg-id="TRTHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" group-title="Haber",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="Diyanet TV HD" tvg-language="Turkish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Trtdiyanet.png" group-title="Dini",Diyanet TV
 http://149.62.183.207:4000/play/a03y/index.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Ulusal",Star TV
@@ -105,8 +107,7 @@ http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
 http://149.62.183.207:4000/play/a03y/index.m3u8
 #EXTINF:1 tvg-id="TRTSpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/82d25df4-51bf-47f1-814c-caf622fe1022.png" group-title="Spor",TRT Spor
 http://49.12.123.148:8989/8/hls/playlist.m3u8
-#EXTINF:1 tvg-id="TRTHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" group-title="Haber",TRT Haber
-http://45.91.195.132:8000/play/a025
+
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/81811713-b6b5-48ee-9fe7-d7907d5c2ebd.png" group-title="Ulusal",TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:1 tvg-id="AHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4e5563e7-113e-4d5f-bb5c-e0adbed43932.png" group-title="Haber",A Haber
