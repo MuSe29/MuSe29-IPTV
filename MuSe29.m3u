@@ -51,29 +51,29 @@ https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2018/06/YOL-TV.jpg" group-title="Ulusal",Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:1 tvg-id="Ekoturk.tr" tvg-language="Turkish" tvg-logo="https://yt3.googleusercontent.com/AcX_J3P3ORFHDgqA9t2VZEiO7MGzkJUipQ1q0L-yA3GCfofi2D18vAAQG2rDYfaL-Y4dv8b7bQ=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Ekotürk
+#EXTINF:1 tvg-id="Ekoturk.tr" tvg-language="Turkish" tvg-logo="https://www.ekoturk.com/wp-content/uploads/2021/06/ekoturk-logo-400.png" group-title="Ulusal",Ekotürk
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="BloombergHT.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b164ae9e-ca58-457d-9a35-c10df0c82ff7.png" group-title="Ulusal",Bloomberg HT
+#EXTINF:1 tvg-id="BloombergHT.tr" tvg-language="Turkish" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-ht7836.jpg" group-title="Ulusal",Bloomberg HT
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="TBMMTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/749bf200-220f-405c-8338-4ed80747e508.png" group-title="Ulusal",TBMM TV
+#EXTINF:1 tvg-id="TBMMTV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/1200px-TBMM_TV_logo.svg.png" group-title="Ulusal",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title="Ulusal",TRT 2
+#EXTINF:1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/192e4d114978259.604668a328a66.png" group-title="Ulusal",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/c8b67bc4-7fbf-408c-b243-d5ad84462cb1.png" group-title="Ulusal",Anadolu Ajansı
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://ohsad.org/wp-content/uploads/2021/11/Anadolu-ajansi-logo.png" group-title="Ulusal",Anadolu Ajansı
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
-#EXTINF:1 tvg-id="TRTAvaz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6663b40a-3ea0-426d-a901-7dd6d56c9e2c.png" group-title="Ulusal",TRT Avaz
+#EXTINF:1 tvg-id="TRTAvaz.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Ulusal",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:1 tvg-id="Lalegül.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Lalegül TV
+#EXTINF:1 tvg-id="Lalegül.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Ulusal",Lalegül TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:1 tvg-id="BizimevTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4a5a692f-0278-4104-ab9c-35a0f82fe7e5.png" group-title="Ulusal",Bizim Ev TV
+#EXTINF:1 tvg-id="BizimevTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/eJa6sFY.png" group-title="Ulusal",Bizim Ev TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:1 tvg-id="FlashTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" group-title="Ulusal",Flash TV
+#EXTINF:1 tvg-id="FlashTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/L0NHKBM.png" group-title="Ulusal",Flash TV
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="UlusalKanal.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/34edb290-d096-44ce-a670-b5ca97fabe5e.png" group-title="Ulusal",Ulusal Kanal
+#EXTINF:1 tvg-id="UlusalKanal.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/EwSg612.png" group-title="Ulusal",Ulusal Kanal
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
-#EXTINF:1 tvg-id="SportsTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dc33f25b-03d7-4890-9ee8-1de61de15feb.png" group-title="Ulusal",Sports TV
+#EXTINF:1 tvg-id="SportsTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Ulusal",Sports TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a915fc70-7152-4739-b798-b5bb8d172e5c.png" group-title="Ulusal",Briç ve Satranç TV
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://broadcasterinfo.net/systems/images/KapakResimleri/8429f36e-915d-4650-afe1-2e4f065567a3.jpg" group-title="Ulusal",Briç ve Satranç TV
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Ulusal",A Spor
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
