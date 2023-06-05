@@ -47,11 +47,11 @@ https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:1 tvg-id="TGRTHaber.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Ulusal",TGRT Haber
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" group-title="Ulusal",TV100
+#EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://www.suleymanpasa.bel.tr/images/basinulusal/tv100.png" group-title="Ulusal",TV100
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b123c5f2-442b-4a6b-bc21-449200dc0c46.png" group-title="Ulusal",Yol TV
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2018/06/YOL-TV.jpg" group-title="Ulusal",Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:1 tvg-id="Ekoturk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cdea5df1-2261-4e9e-9014-0cb95fda7c68.png" group-title="Ulusal",Ekotürk
+#EXTINF:1 tvg-id="Ekoturk.tr" tvg-language="Turkish" tvg-logo="https://yt3.googleusercontent.com/AcX_J3P3ORFHDgqA9t2VZEiO7MGzkJUipQ1q0L-yA3GCfofi2D18vAAQG2rDYfaL-Y4dv8b7bQ=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Ekotürk
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="BloombergHT.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b164ae9e-ca58-457d-9a35-c10df0c82ff7.png" group-title="Ulusal",Bloomberg HT
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
