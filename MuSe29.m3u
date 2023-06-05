@@ -33,7 +33,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Ulusal",teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:1 tvg-id="DMAXTurkiye.us" tvg-language="Turkish" tvg-logo="https://banner2.cleanpng.com/20180829/qie/kisspng-logo-brand-isuzu-d-max-font-product-onlinetv-home-office-ideas-2-17-5b87016ddb5b58.7624222615355743818985.jpg" group-title="Ulusal",DMAX
+#EXTINF:1 tvg-id="DMAXTurkiye.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/800px-DMAX_Logo_16_05_2011.jpg" group-title="Ulusal",DMAX
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:1 tvg-id="TLCTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf8d5574-eba6-4fe0-83c9-feca7c47591d.png" group-title="Ulusal",TLC
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
