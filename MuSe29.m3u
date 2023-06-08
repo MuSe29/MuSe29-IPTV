@@ -20,7 +20,7 @@ http://149.62.183.207:4000/play/a03u/index.m3u8
 #EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Ulusal",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="360.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Ulusal",360 TV
-https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="Ulusal",TRT Türk
 https://mn-nl.mncdn.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="TGRTEU.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="Ulusal",TGRT EU
