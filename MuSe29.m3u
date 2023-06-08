@@ -61,6 +61,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-id="AksuTV.tr" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Ulusal",Aksu TV (720p)
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-id="Haber61TV.tr" tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="Ulusal",Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:1 tvg-id="TBMMTV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/1200px-TBMM_TV_logo.svg.png" group-title="Ulusal",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/192e4d114978259.604668a328a66.png" group-title="Ulusal",TRT 2
