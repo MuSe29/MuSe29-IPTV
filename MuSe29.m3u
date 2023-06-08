@@ -57,7 +57,9 @@ http://149.62.183.207:4000/play/a03y/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg" group-title="Ulusal",Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-id="AksuTV.tr" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Ulusal",Aksu TV (720p)
+#EXTINF:1 tvg-id="Lalegül.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Ulusal",Lalegül TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="AksuTV.tr" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Ulusal",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr" tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="Ulusal",Haber61 TV
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
@@ -69,8 +71,6 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
 #EXTINF:1 tvg-id="TRTAvaz.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Ulusal",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:1 tvg-id="Lalegül.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Ulusal",Lalegül TV
-http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:1 tvg-id="BizimevTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/eJa6sFY.png" group-title="Ulusal",Bizim Ev TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:1 tvg-id="FlashTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/L0NHKBM.png" group-title="Ulusal",Flash TV
@@ -106,6 +106,9 @@ https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-logo="https://i.imgur.com/IUha5eQ.jpg" group-title="Ulusal",TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
+
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" group-title="Ulusal",Buraya kadar güncellendi. 09.06.2023
+http://mugla.tvizlehd.com/live/atvavrupa.m3u8
 
 
 
