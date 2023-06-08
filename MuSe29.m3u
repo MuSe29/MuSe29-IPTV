@@ -5,7 +5,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Ulusal",TRT Belgesel
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="Ulusal",atv
+#EXTINF:1 tvg-id="ATV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="Ulusal",Atv
 https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Ulusal",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
