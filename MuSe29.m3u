@@ -52,7 +52,7 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:1 tvg-id="AkitTV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" group-title="Ulusal",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:1 tvg-id="Diyanet TV HD" tvg-language="Turkish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Trtdiyanet.png" group-title="Ulusal",Diyanet TV
-http://149.62.183.207:4000/play/a03y/index.m3u8
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="Ulusal",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg" group-title="Ulusal",Dost TV
