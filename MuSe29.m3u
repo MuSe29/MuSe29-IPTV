@@ -8,7 +8,7 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="ATV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="Ulusal",Atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Ulusal",Star TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:1 tvg-id="EuroD.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Ulusal",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:1 tvg-id="ShowTurk.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/NM2eYgs.png" group-title="Ulusal",Show Türk
@@ -39,8 +39,6 @@ http://stream.tvcdn.net/haber/a-haber.m3u8
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 #EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://www.suleymanpasa.bel.tr/images/basinulusal/tv100.png" group-title="Ulusal",TV100
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
-#EXTINF:1 tvg-id="Ekoturk.tr" tvg-language="Turkish" tvg-logo="https://www.ekoturk.com/wp-content/uploads/2021/06/ekoturk-logo-400.png" group-title="Ulusal",Ekotürk
-https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="BloombergHT.tr" tvg-language="Turkish" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-ht7836.jpg" group-title="Ulusal",Bloomberg HT
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Ulusal",teve2
@@ -65,8 +63,6 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:1 tvg-id="TBMMTV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/1200px-TBMM_TV_logo.svg.png" group-title="Ulusal",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/192e4d114978259.604668a328a66.png" group-title="Ulusal",TRT 2
-http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://ohsad.org/wp-content/uploads/2021/11/Anadolu-ajansi-logo.png" group-title="Ulusal",Anadolu Ajansı
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
 #EXTINF:1 tvg-id="TRTAvaz.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Ulusal",TRT Avaz
@@ -114,8 +110,10 @@ http://mugla.tvizlehd.com/live/atvavrupa.m3u8
 
 
 
-
-
+#EXTINF:1 tvg-id="Ekoturk.tr" tvg-language="Turkish" tvg-logo="https://www.ekoturk.com/wp-content/uploads/2021/06/ekoturk-logo-400.png" group-title="Ulusal",Ekotürk
+https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/192e4d114978259.604668a328a66.png" group-title="Ulusal",TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 
