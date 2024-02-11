@@ -10,7 +10,7 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Ulusal",Star TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:1 tvg-id="EuroD.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Ulusal",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 #EXTINF:1 tvg-id="ShowTurk.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/NM2eYgs.png" group-title="Ulusal",Show Türk
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/ggmwgiF.png" group-title="Ulusal",Kanal 7
