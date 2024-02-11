@@ -6,25 +6,25 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Ulusal",TRT Belgesel
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="ATV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="Ulusal",Atv
-https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Ulusal",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:1 tvg-id="EuroD.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Ulusal",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:1 tvg-id="ShowTurk.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/NM2eYgs.png" group-title="Ulusal",Show Türk
-https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/ggmwgiF.png" group-title="Ulusal",Kanal 7
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Ulusal",TV8 Int.
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Ulusal",Beyaz TV
-https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:1 tvg-id="360.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="Ulusal",TRT Türk
-https://mn-nl.mncdn.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
 #EXTINF:1 tvg-id="TGRTEU.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="Ulusal",TGRT EU
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:1 tvg-id="CNNTurk.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="Ulusal",CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:1 tvg-id="NTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Ulusal",NTV
@@ -34,21 +34,21 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:1 tvg-id="TVNet.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="Ulusal",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Ulusal",A Haber
-https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+http://stream.tvcdn.net/haber/a-haber.m3u8
 #EXTINF:1 tvg-id="TGRTHaber.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Ulusal",TGRT Haber
-https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 #EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://www.suleymanpasa.bel.tr/images/basinulusal/tv100.png" group-title="Ulusal",TV100
-https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:1 tvg-id="Ekoturk.tr" tvg-language="Turkish" tvg-logo="https://www.ekoturk.com/wp-content/uploads/2021/06/ekoturk-logo-400.png" group-title="Ulusal",Ekotürk
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="BloombergHT.tr" tvg-language="Turkish" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-ht7836.jpg" group-title="Ulusal",Bloomberg HT
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Ulusal",teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:1 tvg-id="DMAXTurkiye.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/800px-DMAX_Logo_16_05_2011.jpg" group-title="Ulusal",DMAX
-https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:1 tvg-id="TLCTurkiye.us" tvg-language="Turkish" tvg-logo="https://www.liblogo.com/img-logo/tl3943fac2-tlc-logo-file-tlc-logo-png-wikimedia-commons.png" group-title="Ulusal",TLC
-https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:1 tvg-id="AkitTV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" group-title="Ulusal",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:1 tvg-id="Diyanet TV HD" tvg-language="Turkish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Trtdiyanet.png" group-title="Ulusal",Diyanet TV
@@ -74,31 +74,31 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="BizimevTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/eJa6sFY.png" group-title="Ulusal",Bizim Ev TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:1 tvg-id="FlashTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/L0NHKBM.png" group-title="Ulusal",Flash TV
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/haber/flash-haber.m3u8
 #EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Ulusal",Cine5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:1 tvg-id="UlusalKanal.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/EwSg612.png" group-title="Ulusal",Ulusal Kanal
-https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
+http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Ulusal",Halk TV
-https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+http://stream.tvcdn.net/haber/halk-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2018/06/YOL-TV.jpg" group-title="Ulusal",Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:1 tvg-id="SportsTV.tr" tvg-language="Turkish" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Ulusal",Sports TV
-https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/spor/sports-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://broadcasterinfo.net/systems/images/KapakResimleri/8429f36e-915d-4650-afe1-2e4f065567a3.jpg" group-title="Ulusal",Briç ve Satranç TV
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Ulusal",A Spor
-https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Ulusal",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="AltasTV.tr" tvg-logo="https://i.imgur.com/XaJ7fp6.png" group-title="Ulusal",ALTAS TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GoncaTV.tr" tvg-logo="https://i.imgur.com/TwqIJwo.png" group-title="Ulusal",Gonca TV
-https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
+http://stream.tvcdn.net/dini/gonca-tv.m3u8
 #EXTINF:1 tvg-id="Star.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" group-title="Ulusal",Star TV
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-logo="https://i.imgur.com/IUha5eQ.jpg" group-title="Ulusal",TRT EBA Ilkokul
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-logo="https://i.imgur.com/IUha5eQ.jpg" group-title="Ulusal",TRT EBA Lise
@@ -107,7 +107,7 @@ https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" group-title="Ulusal",Buraya kadar güncellendi. 09.06.2023
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" group-title="Ulusal",Buraya kadar güncellendi. 11.02.2024
 http://mugla.tvizlehd.com/live/atvavrupa.m3u8
 
 
